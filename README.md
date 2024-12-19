@@ -209,11 +209,16 @@ resource "aws_autoscaling_group" "wordpress_asg" {
 ![image](https://github.com/user-attachments/assets/17a14efd-2e93-499b-90a7-3fb8f259fc28)
 
 #### Initialize Terraform: *terraform init**
+![image](https://github.com/user-attachments/assets/acf3bc61-7fbd-46e7-acf9-491ecc314682)
 
+#### Validate the configuration: *terraform validate**
+![image](https://github.com/user-attachments/assets/13e7de8a-9d23-40f1-8bcd-f93ede9a4ea7)
 
+#### Run the terraform plan : *terraform plan**
+![image](https://github.com/user-attachments/assets/57d543ec-c7cf-411d-bcd8-4e037dd01318)
 
-
-
+#### Run terraform apply : *terraform apply**
+![image](https://github.com/user-attachments/assets/b2797be9-b4ab-42a8-b0ca-8ee8f5d5cb2b)
 
 
 
